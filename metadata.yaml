@@ -1,5 +1,8 @@
 _repo: Old-Coaching-Days-Some-Incidents-in-the-Life-of-Moses-James-Nobbs-the-last-of-the-Mail-Coach-__53873
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53873-h/images/covers.jpg
 creator:
   author:
     agent_name: Nobbs, Moses James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47589'
     url: http://www.gutenberg.org/2009/agents/47589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53873#Old-Coaching-Days-Some-Incidents-in-the-Life-of-Moses-James-Nobbs-the-last-of-the-Mail-Coach-_
 gutenberg_issued: '2017-01-02'
 gutenberg_type: Text
 identifiers:
