@@ -1,0 +1,26 @@
+_repo: Old-Coaching-Days-Some-Incidents-in-the-Life-of-Moses-James-Nobbs-the-last-of-the-Mail-Coach-__53873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nobbs, Moses James
+    birthdate: 1817
+    gutenberg_agent_id: '47589'
+    url: http://www.gutenberg.org/2009/agents/47589
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Great Britain -- Employees'
+- !lcc 'HE'
+- !lcsh 'Nobbs, Moses James, 1817-'
+- GITenberg
+title: 'Old Coaching Days
+
+  Some Incidents in the Life of Moses James Nobbs, the last of the Mail Coach Guards'
+url: http://www.gutenberg.org/ebooks/53873
